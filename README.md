@@ -5,10 +5,6 @@
 
 ---
 
-###  My Current Projects:
--  **[Laptop Price Predictor](https://github.com/Sonisah-013/Laptop_Price_Predictor)**: Regression model for market analysis.
--  **[Student Performance](https://github.com/Sonisah-013/StudentPerformanceProject)**: Predictive analytics in education.
-
 ###  My Tech Stack:
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, Scikit-Learn
