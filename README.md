@@ -6,7 +6,7 @@
 ---
 
 ###  My Tech Stack:
-- **Languages:** Python, SQL,JavaScript
+- **Languages:** Python, SQL, JavaScript
 - **Libraries:** Pandas, NumPy, Scikit-Learn
 - **Tools:** Jupyter Notebook, Git
 
