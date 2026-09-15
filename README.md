@@ -1,4 +1,4 @@
-Soni Sah! 
+SONI SAH
 
 ### BSc CSIT | Aspiring ML Engineer | Python & Data Science Enthusiast
 
