@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Soni Sah! 
+Soni Sah! 
 
 ### BSc CSIT | Aspiring ML Engineer | Python & Data Science Enthusiast
 
